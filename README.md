@@ -4,5 +4,8 @@ PCB designed to serve as the main controller for the brake and throttle pedal se
 
 ![ETBC](https://github.com/ephrenm/ETBC/assets/116685385/05e1b8af-5d35-42e1-8818-c6edb8beab54)
 
+Soldered using stencil and paste:
+![Image](https://github.com/ephrenm/ETBC/assets/116685385/e86cee05-2081-4403-bfd9-e18b2d36d983)
+
 
 Designed with Altium Designer by Ephren Manning. Hardware files folder contains all design files and gerbers.
